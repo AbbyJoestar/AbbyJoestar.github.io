@@ -13,10 +13,12 @@ header {
     height: 100px;
     background-image: linear-gradient(to right top, #cdc6c0, #d0bdb5, #d3b4af, #d4aaae, #d1a1b3, #cd9db7, #c799bc, #bf96c1, #bc94c2, #b992c4, #b590c5, #b18ec7);
     color: blueviolet;
+    position: relative;
 }
 
 .inicio img {
     border-radius: 50%;
+    position: relative;
 }
 
 .inicio {
@@ -24,12 +26,14 @@ header {
     display: flex;
     flex-direction: row;
     font-size: 10%;
+    position: relative;
 }
 
 #titulo {
     display: flex;
     flex-direction: row;
     font-family: "Pacifico", cursive;
+    position: relative;
 }
 
 #press {
@@ -37,6 +41,7 @@ header {
     flex-direction: column;
     margin-left: 25px;
     margin-top: 15px;
+    position: relative;
 }
 
 header ul {
@@ -44,7 +49,7 @@ header ul {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
-
+    position: relative;
 }
 
 header ul li {
@@ -53,12 +58,14 @@ header ul li {
     color: rgba(60, 1, 99, 0.822);
     margin-top: 15px;
     margin-bottom: 15px;
+    position: relative;
 }
 
 a {
     text-decoration: none;
     margin: 25px;
     margin-top: 5px;
+    position: relative;
 
 
 }
@@ -79,6 +86,8 @@ footer {
     justify-content: space-around;
     height: 300px;
     margin-top: 25px;
+    position: relative;
+    position: relative;
 }
 
 footer p {
@@ -87,6 +96,7 @@ footer p {
     font-family: "DM Serif Display", serif;
     font-size: larger;
     flex-direction: column;
+    position: relative;
 }
 
 iframe {
@@ -95,6 +105,7 @@ iframe {
     flex-direction: row;
     border-radius: 10%;
     box-shadow: 0 3px 8px #ea7fee;
+    position: relative;
 }
 
 #direccion {
@@ -114,6 +125,7 @@ iframe {
     font-size: 20px;
     flex-direction: row;
     margin: 15px;
+    position: relative;
 }
 
 .send {
@@ -148,6 +160,7 @@ iframe {
     font-weight: bold;
     transition: all 0.3 ease;
     margin-bottom: 15px;
+    position: relative;
 }
 
 .buttons-network_button p {
@@ -184,12 +197,15 @@ h1 {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
+    position: relative;
+    position: relative;
 }
 
 .titulos {
     margin-top: 25px;
     font-family: "Whisper", cursive;
     font-size: 75px;
+    position: relative;
 }
 
 .img-carrusel {
@@ -201,6 +217,7 @@ h1 {
     justify-content: center;
     align-items: center;
     padding: 40px;
+    position: relative;
 }
 
 #home {
@@ -211,6 +228,7 @@ h1 {
 
 body {
     background-image: linear-gradient(to right top, #d4c3cd, #d1b7c6, #cdaac0, #c89eba, #c492b4, #bf88b1, #ba7fae, #b475ab, #ab6cac, #a063ad, #945caf, #8555b1);
+    position: relative;
 }
 
 .card {
@@ -301,11 +319,13 @@ body {
     align-items: center;
     justify-content: space-around;
     padding: 20px;
+    position: relative;
 }
 
 .cupones img {
     border-radius: 15%;
     margin-bottom: 20px;
+    position: relative;
 }
 
 .cuponesspes {
@@ -314,6 +334,7 @@ body {
     border-end-end-radius: 10%;
     background-image: linear-gradient(to right top, #8ac8de, #93bede, #a0b2d8, #ada7cc, #b79cbc);
     height: 300px;
+    position: relative;
 }
 
 .testinonioo {
@@ -325,6 +346,7 @@ body {
     padding: 20px;
     margin-top: 50px;
     margin-bottom: 50px;
+    position: relative;
 
 }
 
@@ -334,6 +356,7 @@ body {
     width: 250px;
     justify-content: center;
     align-items: center;
+    position: relative;
 
 }
 
@@ -351,6 +374,7 @@ h5 {
     margin-top: 20px;
     margin-bottom: 25px;
     border-top-right-radius: 20%;
+    position: relative;
 }
 
 h3 {
@@ -359,12 +383,12 @@ h3 {
     justify-content: center;
     align-items: center;
     font-size: 30px;
-    width: 1500px;
+    width: 1000px;
     display: flex;
     margin-top: 30px;
     margin-bottom: 40px;
-    margin-left: 150px;
+    margin-left: 50px;
     margin-right: 150px;
-    
+    position: relative;
 
 }
