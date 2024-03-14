@@ -87,7 +87,6 @@ footer {
     height: 300px;
     margin-top: 25px;
     position: relative;
-    position: relative;
 }
 
 footer p {
@@ -224,6 +223,7 @@ h1 {
 
     margin-left: 50px;
     margin-right: 50PX;
+    position: relative;
 }
 
 body {
@@ -325,7 +325,7 @@ body {
     border-end-end-radius: 10%;
     background-image: linear-gradient(to right top, #8ac8de, #93bede, #a0b2d8, #ada7cc, #b79cbc);
     height: 300px;
-    position: relative;
+    position: absolute;
 }
 
 .testinonioo {
@@ -382,4 +382,11 @@ h3 {
     margin-right: 150px;
     position: relative;
 
+}
+.card1{
+    width: 100%;
+    margin: 20px;
+    border-end-end-radius: 10%;
+    height: 300px;
+    position: relative;
 }
